@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-audioplayers_android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dino_run/build/audioplayers_android/intermediates/merged_java_res/release/mergeReleaseJavaResource/feature-audioplayers_android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
